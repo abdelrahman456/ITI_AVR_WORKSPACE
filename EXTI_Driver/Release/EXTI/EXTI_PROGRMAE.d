@@ -1,0 +1,16 @@
+EXTI/EXTI_PROGRMAE.o EXTI/EXTI_PROGRMAE.o: ../EXTI/EXTI_PROGRMAE.c \
+  ../EXTI/../LIB/bit_math.h ../EXTI/../LIB/std_types.h \
+  ../EXTI/../MCAL/DIO_INTERFACE.h ../EXTI/EXTI_INTERFACE.h \
+  ../EXTI/EXTI_PRIVATE.h ../EXTI/EXTI_CONFIG.h
+
+../EXTI/../LIB/bit_math.h:
+
+../EXTI/../LIB/std_types.h:
+
+../EXTI/../MCAL/DIO_INTERFACE.h:
+
+../EXTI/EXTI_INTERFACE.h:
+
+../EXTI/EXTI_PRIVATE.h:
+
+../EXTI/EXTI_CONFIG.h:
